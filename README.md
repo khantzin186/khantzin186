@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @khantzin186
+- 👀 I’m interested in computer programming.
+- 🌱 I’m currently learning coding.
